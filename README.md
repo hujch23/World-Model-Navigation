@@ -31,7 +31,7 @@
 
 ---  
 
-### 1.2 [Towards Efficient Image-Goal Navigation: A Self-Supervised Transformer-Based Reinforcement Learning Approach](#)  
+### 1.2 [Towards Efficient Image-Goal Navigation: A Self-Supervised Transformer-Based Reinforcement Learning Approach(在投)](#)  
 #### 研究背景  
 - **问题定义**：如何在图像目标导航任务中提升效率和鲁棒性？  
 - **研究意义**：传统方法依赖大量标注数据，训练成本高，泛化能力有限。  
@@ -59,7 +59,7 @@
 
 ---  
 
-### 1.3 [Learning Stochastic World Models with VAE-Transformer for Visual Navigation](#)  
+### 1.3 [Learning Stochastic World Models with VAE-Transformer for Visual Navigation（进展中）](#)  
 #### 研究背景  
 - **问题定义**：如何在视觉导航任务中构建高效的世界模型？  
 - **研究意义**：传统方法依赖确定性模型，难以处理环境中的随机性和不确定性。  
