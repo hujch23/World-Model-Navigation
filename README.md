@@ -85,6 +85,7 @@
   - Model prediction accuracy  
 - **Potential Impact**:  
   - More robust navigation in uncertain environments  
-  - Better generalization to real-world scenarios  
+  - Better generalization to real-world scenarios
+![Example Image](Network.jpg)  
 
 [Research in progress, results pending]
