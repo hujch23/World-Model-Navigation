@@ -1,4 +1,4 @@
-# ![Robot Icon](robot.png) Intelligent Navigation Reinforcement Learning Research  
+# Intelligent Navigation Reinforcement Learning Research  
 **Author: CPNT Sleep King**
 
 ---  
