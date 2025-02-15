@@ -4,23 +4,15 @@
 
 ## 1. Research Papers Summary  
 
-# Official Implementation of "A New Representation of Universal Successor Features for Enhancing the Generalization of Target-driven Visual Navigation"  
-**[J]. IEEE Robotics and Automation Letters, 2024**  
-
-This repository contains the official implementation of the paper **"A New Representation of Universal Successor Features for Enhancing the Generalization of Target-driven Visual Navigation"**, published in IEEE Robotics and Automation Letters, 2024.  
-
-## Links  
-
-- 📄 [Paper on IEEE Xplore](https://ieeexplore.ieee.org/document/10623277/)  
-- 📄 [ResearchGate](https://www.researchgate.net/publication/382900273_A_New_Representation_of_Universal_Successor_Features_for_Enhancing_the_Generalization_of_Target-Driven_Visual_Navigation)  
-
-## Badges  
-
-[![arXiv](https://img.shields.io/badge/arxiv-2310.07473-A61E24?logo=arxiv&logoColor=red)](https://arxiv.org/abs/2310.07473)  
-[![IEEE RA-L](https://img.shields.io/badge/IEEE-RA--Letters-0071BC?logo=ieee)](https://ieeexplore.ieee.org/document/10623277/)  
-[![Project Page](https://img.shields.io/badge/project-page-0C7B34?logo=probot)](https://yourprojectpage.com)  
-[![Click](https://img.shields.io/badge/click-8A2BE2)](https://yourprojectpage.com)  
-[![Hit Counter](https://www.easycounter.com/counter.php?yourproject)](https://www.easycounter.com/)  
+🙌 Official implementation ofIEEE Robotics and Automation Letters accepted paper ["A New Representation of Universal Successor Features for Enhancing the Generalization of Target-driven Visual Navigation"]([https://xinyusun.github.io/fgprompt-pages](https://ieeexplore.ieee.org/document/10623277))
+<br>
+<p>
+    <a href="https://arxiv.org/abs/2310.07473"><img src="https://img.shields.io/badge/arxiv-2310.07473-A61E24?logo=arxiv&logoColor=red"></a>
+    <a href="https://neurips.cc/virtual/2023/poster/70452"><img src="https://img.shields.io/badge/neurips-poster-8A5F99?logo=neutralinojs"></a>
+    <a href="https://xinyusun.github.io/fgprompt-pages"><img src="https://img.shields.io/badge/project-page-0C7B34?logo=probot"></a>
+    <a href="https://xinyusun.github.io/fgprompt-pages"><img src="https://img.shields.io/badge/click-8A2BE2"></a>
+    <a href="https://www.easycounter.com/"><img src="https://www.easycounter.com/counter.php?xinyusun" border="0" alt="Free Hit Counters"></a>
+</p>
 
 ---  
 
