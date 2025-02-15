@@ -1,5 +1,4 @@
-# 🤖 Intelligent Navigation Reinforcement Learning Research  
-**Author: CPNT Sleep King**
+# 🤖 Intelligent Navigation RL Research  
 
 ---  
 
