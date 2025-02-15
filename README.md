@@ -5,6 +5,13 @@
 ## 1. Research Papers Summary  
 
 ### 1.1 [Hu J, Ma Y, Jiang H, et al. A new representation of universal successor features for enhancing the generalization of target-driven visual navigation[J]. IEEE Robotics and Automation Letters, 2024.](#)  
+<p>
+    <a href="https://arxiv.org/abs/2310.07473"><img src="https://img.shields.io/badge/arxiv-2310.07473-A61E24?logo=arxiv&logoColor=red"></a>
+    <a href="https://neurips.cc/virtual/2023/poster/70452"><img src="https://img.shields.io/badge/neurips-poster-8A5F99?logo=neutralinojs"></a>
+    <a href="https://xinyusun.github.io/fgprompt-pages"><img src="https://img.shields.io/badge/project-page-0C7B34?logo=probot"></a>
+    <a href="https://xinyusun.github.io/fgprompt-pages"><img src="https://img.shields.io/badge/click-8A2BE2"></a>
+    <a href="https://www.easycounter.com/"><img src="https://www.easycounter.com/counter.php?xinyusun" border="0" alt="Free Hit Counters"></a>
+</p>
 
 #### Research Background  
 - **Problem Definition**: How to enhance agent generalization in target-driven visual navigation tasks?  
