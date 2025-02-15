@@ -28,7 +28,7 @@
   - Proposed USF method outperforms existing approaches in new targets and environments  
   - Significant improvement in generalization capability  
 
-![Example Image](Train/figures/SF.jpg)  
+![Example Image](Train/figs/SF.jpg)  
 
 ---  
 
@@ -57,7 +57,7 @@
   - Self-supervised pre-training significantly reduced training time  
   - Proposed Transformer policy network excels in complex environments  
 
-![Example Image](Masked.jpg)  
+![Example Image](Train/figs/Masked.jpg)  
 
 ---  
 
@@ -86,6 +86,6 @@
 - **Potential Impact**:  
   - More robust navigation in uncertain environments  
   - Better generalization to real-world scenarios
-![Example Image](Network.jpg)  
+![Example Image](Train/figs/Network.jpg)  
 
 [Research in progress, results pending]
