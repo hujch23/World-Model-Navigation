@@ -28,7 +28,7 @@
   - Proposed USF method outperforms existing approaches in new targets and environments  
   - Significant improvement in generalization capability  
 
-![Example Image](SF.jpg)  
+![Example Image](Train/figures/SF.jpg)  
 
 ---  
 
