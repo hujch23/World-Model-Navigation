@@ -4,9 +4,7 @@
 
 ---  
 
-## 🚀 1. Research Papers Summary 
-
-🙌 Official implementation of IEEE Robotics and Automation Letters accepted paper ["A New Representation of Universal Successor Features for Enhancing the Generalization of Target-driven Visual Navigation"](https://ieeexplore.ieee.org/document/10623277)
+## 🚀 1. 🙌 Official implementation of IEEE Robotics and Automation Letters accepted paper ["A New Representation of Universal Successor Features for Enhancing the Generalization of Target-driven Visual Navigation"](https://ieeexplore.ieee.org/document/10623277)
 
 ---  
 
@@ -34,17 +32,16 @@
 ![Example Image](Train/figs/SF.jpg)  
 
 ---  
+🙌 Official implementation of IROS 2025 under-review paper "Towards Efficient Image-Goal Navigation: A Self-Supervised Transformer-Based Reinforcement Learning Approach"
 
-### 1.2 [Towards Efficient Image-Goal Navigation: A Self-Supervised Transformer-Based Reinforcement Learning Approach(Under Review)](#)  
-
-#### Research Background  
+#### 🍔 2.1 Research Background 
 - **Problem Definition**: How to improve efficiency and robustness in image-goal navigation tasks?  
 - **Research Significance**: Traditional methods rely on extensive labeled data, high training costs, limited generalization  
 - **Challenges**:  
   - Efficient visual feature extraction needed for image-goal navigation  
   - Data scarcity limiting model performance  
 
-#### Research Methods  
+#### 🛰️ 2.2 Research Methods  
 - Proposed a self-supervised Transformer-based reinforcement learning framework  
 - **Core Innovations**:  
   - Self-supervised learning for pre-training visual feature extraction module  
@@ -53,7 +50,7 @@
   1. Self-supervised Pre-training: Learning visual features through masked prediction tasks  
   2. Reinforcement Learning: Optimizing policy using PPO algorithm based on pre-training  
 
-#### Experimental Results  
+#### 🏆 2.3 Experimental Results  
 - **Datasets**: Experiments conducted in Gibson and Matterport3D environments  
 - **Performance Metrics**: Success Rate (SR), SPL, Training Time  
 - **Conclusions**:  
