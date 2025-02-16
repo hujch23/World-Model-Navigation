@@ -11,7 +11,7 @@
 
 ---  
 #### 🚀 1.1 Research Background 
-- **Problem Definition**: How to improve the cross-scene and cross-domain generalization ability in visual navigation, enabling agents to effectively navigate to target locations in new environments.  
+- **Problem Definition**: How to address poor generalization in reinforcement learning for visual navigation task.  
 - **Research Significance**: Traditional methods perform poorly in new targets or environments, lacking universality.  
 - **Challenges**: Simultaneous processing of high-dimensional visual inputs and complex temporal dependencies; Challenges from dynamic camera parameter settings in real-world scenarios.  
 
