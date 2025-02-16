@@ -58,7 +58,7 @@
 
 ![Example Image](Train/figs/Masked.jpg)  
 
-## 🎯 3. Model-based
+## 🎯 3. Model-based（World Model）
 ---  
 
 🙌 Official implementation of CoRL 2025 under-preparation paper "Learning Stochastic World Models with VAE-Transformer for Visual Navigation (In Progress)"
