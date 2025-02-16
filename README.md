@@ -33,6 +33,7 @@
 
 ![Example Image](Train/figs/SF.jpg)  
 
+## 🚀 2. Model-free
 ---  
 🙌 Official implementation of IROS 2025 under-review paper "Towards Efficient Image-Goal Navigation: A Self-Supervised Transformer-Based Reinforcement Learning Approach"
 
@@ -61,18 +62,19 @@
 
 ![Example Image](Train/figs/Masked.jpg)  
 
+## 🚀 3. Model-based
 ---  
 
-### 1.3 [Learning Stochastic World Models with VAE-Transformer for Visual Navigation (In Progress)](#)  
+🙌 Official implementation of CoRL 2025 under-preparation paper "Learning Stochastic World Models with VAE-Transformer for Visual Navigation (In Progress)"
 
-#### Research Background  
+#### 🍔 3.1 Research Background  
 - **Problem Definition**: How to model environmental uncertainty in visual navigation?  
 - **Research Significance**: Current world models lack stochastic modeling capabilities  
 - **Challenges**:  
   - Complex environmental dynamics  
   - Uncertainty quantification in navigation  
 
-#### Research Methods  
+#### 🛰️ 3.2 Research Methods   
 - Developing a VAE-Transformer hybrid architecture for world modeling  
 - **Core Components**:  
   - VAE for stochastic state representation  
@@ -81,7 +83,7 @@
   - Probabilistic state transitions  
   - Uncertainty-aware planning  
 
-#### Expected Outcomes  
+#### 🏆 3.3 Experimental Results  
 - **Metrics**:  
   - Navigation success rate under uncertainty  
   - Model prediction accuracy  
