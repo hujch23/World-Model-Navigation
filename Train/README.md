@@ -1,19 +1,3 @@
-# FGPrompt 🤖
-🙌 Official implementation of NeurIPS 2023 accepted paper ["FGPrompt: Fine-grained Goal Prompting for Image-goal Navigation"](https://xinyusun.github.io/fgprompt-pages)
-<br>
-<p>
-    <a href="https://arxiv.org/abs/2310.07473"><img src="https://img.shields.io/badge/arxiv-2310.07473-A61E24?logo=arxiv&logoColor=red"></a>
-    <a href="https://neurips.cc/virtual/2023/poster/70452"><img src="https://img.shields.io/badge/neurips-poster-8A5F99?logo=neutralinojs"></a>
-    <a href="https://xinyusun.github.io/fgprompt-pages"><img src="https://img.shields.io/badge/project-page-0C7B34?logo=probot"></a>
-    <a href="https://xinyusun.github.io/fgprompt-pages"><img src="https://img.shields.io/badge/click-8A2BE2"></a>
-    <a href="https://www.easycounter.com/"><img src="https://www.easycounter.com/counter.php?xinyusun" border="0" alt="Free Hit Counters"></a>
-</p>
-
-## 0. Overview
-We aim to tackle the image-goal navigation task, in which the agent is required to reason the goal location from where a picture is shot. We leverage fine-grained and high-resolution feature maps in the goal image as prompts to perform conditioned embedding, which preserves detailed information in the goal image and guides the observation encoder to pay attention to goal-relevant regions. Compared with existing methods on the image-goal navigation benchmark, our method **brings significant performance improvement** on 3 benchmark datasets (i.e., Gibson, MP3D, and HM3D).
-
-![](figs/methods.png)
-
 ## 1. Install 🚀
 ### 1.1 Install habitat-lab 🛰️
 ```bash
@@ -96,15 +80,6 @@ data/scene_datasets
 ```
 
 ## 3. Run ImageNav Training 🏂
-### 3.1 Train a Mid-Fusion Agent 🥽
-```bash
-MAGNUM_LOG=quiet HABITAT_SIM_LOG=quiet python -m torch.distributed.launch \
---nproc_per_node=4 --master_port=15244 --nnodes=1 \
---node_rank=0 --master_addr=127.0.0.1 \
-run.py --overwrite \
---exp-config exp_config/ddppo_imagenav_gibson.yaml,policy,reward,dataset,sensors,mid-fusion \
---run-type train --model-dir results/imagenav/mid-fusion
-```
 
 ### 3.1 Train a Early-Fusion Agent 👒
 ```bash
@@ -119,22 +94,6 @@ run.py --overwrite \
 ## 4. Run Evaluation! 🏆
 ### 4.1 Download the Trained Model to Reproduce the Results 👯‍♀️
 |Name|SR|SPL|
-|-|:-:|:-:|
-|[Mid-fusion-r9](https://github.com/XinyuSun/FGPrompt/releases/download/v0.0.1/mid-fusion-r9.pth)|90.7%|62.1%|
-|[Early-fusion-r9](https://github.com/XinyuSun/FGPrompt/releases/download/v0.0.1/early-fusion-r9.pth)|90.4%|66.5%|
-|[Early-fusion-r50](https://github.com/XinyuSun/FGPrompt/releases/download/v0.0.1/early-fusion-r50.pth)|94.2%|68.5%|
-
-Eval the midfusion model!
-
-```bash
-MAGNUM_LOG=quiet HABITAT_SIM_LOG=quiet python -m torch.distributed.launch \
---nproc_per_node=1 --master_port=15244 --nnodes=1 \
---node_rank=0 --master_addr=127.0.0.1 \
-run.py \
---exp-config exp_config/ddppo_imagenav_gibson.yaml,policy,reward,dataset,sensors,mid-fusion,eval \
---run-type eval --model-dir results/imagenav/mid-fusion-r9 \
-habitat_baselines.eval_ckpt_path_dir results/imagenav/mid-fusion-9/ckpts/mid-fusion-r9.pth
-```
 
 Eval the earlyfusion model!
 ```bash
@@ -185,12 +144,6 @@ habitat_baselines.rl.ppo.backbone resnet50 \
 habitat_baselines.eval.split test_easy # choose from [test_easy, test_hard, test_medium]
 ```
 
-## Cite This Paper! 🤗
-```
-@inproceedings{fgprompt2023,
- author = {Xinyu, Sun and Peihao, Chen and Jugang, Fan and Thomas, H. Li and Jian, Chen and Mingkui, Tan},
- title = {FGPrompt: Fine-grained Goal Prompting for Image-goal Navigation},
- booktitle = {37th Conference on Neural Information Processing Systems (NeurIPS 2023)},
- year = {2023},
-} 
-```
+ 🤗
+
+
