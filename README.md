@@ -10,21 +10,21 @@
 
 ---  
 
-#### 🍔 Research Background 
+#### 🍔 1.1 Research Background 
 - **Problem Definition**: How to enhance agent generalization in target-driven visual navigation tasks?  
 - **Research Significance**: Traditional methods perform poorly in new targets or environments, lacking universality.  
 - **Challenges**:  
   - Complex state space and diverse targets  
   - Limited target representation capability in existing methods  
 
-#### 🛰️ Research Methods  
+#### 🛰️ 1.2 Research Methods  
 - Proposed a new Universal Successor Features (USF) representation method  
 - Enhanced target-driven navigation generalization through reinforcement learning framework combining Goal Embedding and feature decomposition  
 - **Core Algorithm**:  
   - Learning successor features using deep neural networks  
   - Designed goal-conditioned policy network integrating target features for navigation  
 
-#### 🏆 Experimental Results  
+#### 🏆 1.3 Experimental Results  
 - **Datasets**: Tested in multiple simulation environments (e.g., AI2-THOR, Habitat)  
 - **Performance Metrics**: Success Rate (SR), Success weighted by Path Length (SPL)  
 - **Conclusions**:  
