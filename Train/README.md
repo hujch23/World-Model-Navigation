@@ -30,11 +30,6 @@ cd ..
 pip install -r requirements.txt
 ```
 
-We also provide a docker image for reproduce convenience
-```bash
-docker run -it --name "fgprompt-docker" -v `pwd`:/fgprompt --shm-size=32g --gpus=all csxinyusun/fgprompt:latest /bin/bash
-```
-
 ## 2. Prepare dataset 🗂️
 <!-- 
 | ObjectNav   |   Gibson     | train    |  [objectnav_gibson_train](https://utexas.box.com/s/7qtqqkxa37l969qrkwdn0lkwitmyropp)    | `./data/datasets/zer/objectnav/gibson/v1/` |
