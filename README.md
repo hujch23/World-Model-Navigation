@@ -1,11 +1,20 @@
 # 🤖 Intelligent Navigation RL Research  
+
+## 📚 Content
+
+- [Overview](#Overview)
+- [Model-free-I](#Model-free-I)
+- [Model-free-II](#Model-free-II)
+- [Model-based](#Model-based)
+
+
 ## 🌟 0. Overview
 
 "To address the challenges of **low learning efficiency and poor generalization** in reinforcement learning for visual navigation tasks, we focus on image-goal navigation in the Habitat simulator and explore a technical pathway from model-free to model-based reinforcement learning approaches. Compared with existing methods on the image-goal navigation benchmark, our approach demonstrates significant performance improvements across three standard benchmark datasets (Gibson, MP3D, and HM3D)."
 
 ---  
 
-## 🔬 1. Model-free
+## 🔬 1. Model-free-I
 
 🙌 Official implementation of IEEE Robotics and Automation Letters accepted paper ["A New Representation of Universal Successor Features for Enhancing the Generalization of Target-driven Visual Navigation"](https://ieeexplore.ieee.org/document/10623277)
 
@@ -34,7 +43,7 @@
 
 
 
-## 🔮 2. Model-free
+## 🔮 2. Model-free-II
 ---  
 🙌 Official implementation of IROS 2025 under-review paper "Towards Efficient Image-Goal Navigation: A Self-Supervised Transformer-Based Reinforcement Learning Approach".
 
