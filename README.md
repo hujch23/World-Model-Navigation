@@ -24,7 +24,7 @@
 #### 🏆 1.3 Experimental Results  
 - **Datasets**: Tested in multiple simulation environments (e.g., AI2-THOR, Habitat)  
 - **Performance Metrics**: Success Rate (SR), Success weighted by Path Length (SPL)  
-- **Conclusions**: Achieving state-of-the-art performance in the generalization of objectives, scenarios, and domains; Demonstrating strong resistance to catastrophic forgetting in continual learning.
+- **Conclusions**: Achieving state-of-the-art performance in the generalization of target, scenarios, and domains; Demonstrating strong resistance to catastrophic forgetting in continual learning.
 
 
 
