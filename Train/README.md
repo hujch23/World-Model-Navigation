@@ -2,7 +2,7 @@
 ### 1.1 Install habitat-lab 🛰️
 ```bash
 # clone our repo
-git clone https://github.com/XinyuSun/FGPrompt.git](https://github.com/hujch23/World-Model-Navigation.git
+git clone https://github.com/hujch23/World-Model-Navigation.git
 cd World-Model-Navigation
 
 # clone habitat-lab code
