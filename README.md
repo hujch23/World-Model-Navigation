@@ -9,13 +9,10 @@
 🙌 Official implementation of IEEE Robotics and Automation Letters accepted paper ["A New Representation of Universal Successor Features for Enhancing the Generalization of Target-driven Visual Navigation"](https://ieeexplore.ieee.org/document/10623277)
 
 ---  
-
 #### 🍔 1.1 Research Background 
 - **Problem Definition**: How to enhance agent generalization in target-driven visual navigation tasks?  
 - **Research Significance**: Traditional methods perform poorly in new targets or environments, lacking universality.  
-- **Challenges**:  
-  - Complex state space and diverse targets  
-  - Limited target representation capability in existing methods  
+- **Challenges**: Complex state space and diverse targets  
 
 #### 🛰️ 1.2 Research Methods  
 - Proposed a new Universal Successor Features (USF) representation method  
