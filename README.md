@@ -5,12 +5,12 @@
 
 ---  
 
-## 🚀 1. Model-free
+## 🔬 1. Model-free
 
 🙌 Official implementation of IEEE Robotics and Automation Letters accepted paper ["A New Representation of Universal Successor Features for Enhancing the Generalization of Target-driven Visual Navigation"](https://ieeexplore.ieee.org/document/10623277)
 
 ---  
-#### 🍔 1.1 Research Background 
+#### 🚀 1.1 Research Background 
 - **Problem Definition**: How to enhance agent generalization in target-driven visual navigation tasks?  
 - **Research Significance**: Traditional methods perform poorly in new targets or environments, lacking universality.  
 - **Challenges**: Complex state space and diverse targets  
@@ -29,11 +29,11 @@
 
 
 
-## 🚀 2. Model-free
+## 🔮 2. Model-free
 ---  
 🙌 Official implementation of IROS 2025 under-review paper "Towards Efficient Image-Goal Navigation: A Self-Supervised Transformer-Based Reinforcement Learning Approach"
 
-#### 🍔 2.1 Research Background 
+#### 🚀 2.1 Research Background 
 - **Problem Definition**: How to improve efficiency and robustness in image-goal navigation tasks?  
 - **Research Significance**: Traditional methods rely on extensive labeled data, high training costs, limited generalization  
 - **Challenges**:  
@@ -58,12 +58,12 @@
 
 ![Example Image](Train/figs/Masked.jpg)  
 
-## 🚀 3. Model-based
+## 🎯 3. Model-based
 ---  
 
 🙌 Official implementation of CoRL 2025 under-preparation paper "Learning Stochastic World Models with VAE-Transformer for Visual Navigation (In Progress)"
 
-#### 🍔 3.1 Research Background  
+#### 🚀 3.1 Research Background  
 - **Problem Definition**: How to model environmental uncertainty in visual navigation?  
 - **Research Significance**: Current world models lack stochastic modeling capabilities  
 - **Challenges**:  
