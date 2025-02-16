@@ -13,7 +13,7 @@
 #### 🚀 1.1 Research Background 
 - **Problem Definition**: How to improve the cross-scene and cross-domain generalization ability in visual navigation, enabling agents to effectively navigate to target locations in new environments.  
 - **Research Significance**: Traditional methods perform poorly in new targets or environments, lacking universality.  
-- **Challenges**: Complex state space and diverse targets  
+- **Challenges**: Simultaneous processing of high-dimensional visual inputs and complex temporal dependencies; Challenges from dynamic camera parameter settings in real-world scenarios.  
 
 #### 🛰️ 1.2 Research Methods  
 - The framework incorporates Successor Features into the A3C architecture.（Derived from cognitive science principles, SF emulates neural mechanisms for constructing reusable predictive maps. This approach achieves reward-dynamics decomposition, facilitating rapid policy adaptation to reward modifications and enabling the acquisition of transferable environmental dynamics representations across task distributions.）📝 中文翻译：将SF与A3C算法结合。SF源自认知科学领域，模拟大脑如何创建可重用的预测地图。将奖励和环境动态解耦，使得策略可以快速适应奖励变化，能够学习多个任务之间可迁移的环境动态表征。
