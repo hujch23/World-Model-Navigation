@@ -18,9 +18,8 @@
 - The framework incorporates Successor Features into the A3C architecture.（Derived from cognitive science principles, SF emulates neural mechanisms for constructing reusable predictive maps. This approach achieves reward-dynamics decomposition, facilitating rapid policy adaptation to reward modifications and enabling the acquisition of transferable environmental dynamics representations across task distributions.） 
 - Implementation of state-feature-based prediction mechanisms to establish parsimonious dynamics models in latent space for SF estimation.
 - Acquisition of compact rule sets within the latent state manifold to optimize successor feature prediction and extraction, enhancing the model's representational capacity.
-- **Core Algorithm**:  
- 
-
+![Example Image](Train/figs/SF.jpg)  
+  
 #### 🏆 1.3 Experimental Results  
 - **Datasets**: Tested in multiple simulation environments (e.g., AI2-THOR, Habitat)  
 - **Performance Metrics**: Success Rate (SR), Success weighted by Path Length (SPL)  
@@ -28,7 +27,7 @@
   - Proposed USF method outperforms existing approaches in new targets and environments  
   - Significant improvement in generalization capability  
 
-![Example Image](Train/figs/SF.jpg)  
+
 
 ## 🚀 2. Model-free
 ---  
