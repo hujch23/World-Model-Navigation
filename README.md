@@ -39,8 +39,12 @@
 - **Challenges**: Simultaneous processing of high-dimensional visual inputs and complex temporal dependencies; Challenges from dynamic camera parameter settings in real-world scenarios.
 
 #### 🛰️ 2.2 Research Methods  
-- Designed a Transformer-based dual attention mechanism framework:Bidirectional attention for masked prediction learning to enhance representation capability; Causal attention for generating belief states to guide policy decisions; Shared Transformer network to reduce parameter count.
-- 
+- Designed a Transformer-based dual attention mechanism framework
+- Bidirectional attention for masked prediction learning to enhance representation capability
+-  Causal attention for generating belief states to guide policy decisions
+-  Shared Transformer network to reduce parameter count.
+
+![Example Image](Train/figs/Masked.jpg)  
 
 #### 🏆 2.3 Experimental Results  
 - **Datasets**: Experiments conducted in Gibson and Matterport3D environments  
@@ -49,7 +53,7 @@
   - Self-supervised pre-training significantly reduced training time  
   - Proposed Transformer policy network excels in complex environments  
 
-![Example Image](Train/figs/Masked.jpg)  
+
 
 ## 🎯 3. Model-based（World Model）
 ---  
