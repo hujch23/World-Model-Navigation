@@ -15,11 +15,10 @@
 - **Challenges**: Complex state space and diverse targets  
 
 #### 🛰️ 1.2 Research Methods  
-- Proposed a new Universal Successor Features (USF) representation method  
+- The framework incorporates Successor Features into the A3C architecture.（Derived from cognitive science principles, SF emulates neural mechanisms for constructing reusable predictive maps. This approach achieves reward-dynamics decomposition, facilitating rapid policy adaptation to reward modifications and enabling the acquisition of transferable environmental dynamics representations across task distributions.） 
 - Enhanced target-driven navigation generalization through reinforcement learning framework combining Goal Embedding and feature decomposition  
 - **Core Algorithm**:  
-  - Learning successor features using deep neural networks  
-  - Designed goal-conditioned policy network integrating target features for navigation  
+ 
 
 #### 🏆 1.3 Experimental Results  
 - **Datasets**: Tested in multiple simulation environments (e.g., AI2-THOR, Habitat)  
