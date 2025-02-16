@@ -13,7 +13,7 @@
 #### 🚀 1.1 Research Background 
 - **Problem Definition**: How to address poor generalization in reinforcement learning for visual navigation task.  
 - **Research Significance**: Traditional methods perform poorly in new targets or environments, lacking universality.  
-- **Challenges**: Complex state spaces and diverse goal representations
+- **Challenges**: Complex state spaces and diverse goal representations.
 
 #### 🛰️ 1.2 Research Methods  
 - The framework incorporates Successor Features into the A3C architecture.（Derived from cognitive science principles, SF emulates neural mechanisms for constructing reusable predictive maps. This approach achieves reward-dynamics decomposition, facilitating rapid policy adaptation to reward modifications and enabling the acquisition of transferable environmental dynamics representations across task distributions.）📝 中文翻译：将SF与A3C算法结合。SF源自认知科学领域，模拟大脑如何创建可重用的预测地图。将奖励和环境动态解耦，使得策略可以快速适应奖励变化，能够学习多个任务之间可迁移的环境动态表征。
@@ -23,17 +23,20 @@
 ![Example Image](Train/figs/SF.jpg)  
   
 #### 🏆 1.3 Experimental Results  
-- **Datasets**: Tested in multiple simulation environments (e.g., AI2-THOR, Habitat)  
-- **Performance Metrics**: Success Rate (SR), Success weighted by Path Length (SPL)  
+- **Datasets**: Tested in multiple simulation environments (e.g., AI2-THOR, Habitat). 
+- **Performance Metrics**:
+  - Success Rate (SR)
+  - Success weighted by Path Length (SPL)
+  - Continuous Learning Performance 
 - **Conclusions**:
-  - Achieving state-of-the-art performance in the generalization of target, scenarios, and domains
+  - Achieving state-of-the-art performance in the generalization of target, scenarios, and domains.
   - Demonstrating strong resistance to catastrophic forgetting in continual learning.
 
 
 
 ## 🔮 2. Model-free
 ---  
-🙌 Official implementation of IROS 2025 under-review paper "Towards Efficient Image-Goal Navigation: A Self-Supervised Transformer-Based Reinforcement Learning Approach"
+🙌 Official implementation of IROS 2025 under-review paper "Towards Efficient Image-Goal Navigation: A Self-Supervised Transformer-Based Reinforcement Learning Approach".
 
 #### 🚀 2.1 Research Background 
 - **Problem Definition**: How to improve the cross-scene and cross-domain generalization ability in visual navigation, enabling agents to effectively navigate to target locations in new environments.  
@@ -43,19 +46,21 @@
   - Challenges from dynamic camera parameter settings in real-world scenarios.
 
 #### 🛰️ 2.2 Research Methods  
-- Designed a Transformer-based dual attention mechanism framework
-- Bidirectional attention for masked prediction learning to enhance representation capability
--  Causal attention for generating belief states to guide policy decisions
+- Designed a Transformer-based dual attention mechanism framework.
+- Bidirectional attention for masked prediction learning to enhance representation capability.
+-  Causal attention for generating belief states to guide policy decisions.
 -  Shared Transformer network to reduce parameter count.
 
 ![Example Image](Train/figs/Masked.jpg)  
 
 #### 🏆 2.3 Experimental Results  
 - **Datasets**:
-  - Gibson dataset (training and testing)
-  - MP3D and HM3D datasets (cross-domain testing)
-  - Categorized by difficulty: easy (1.5-3m), medium (3-5m), and hard (5-10m)  
-- **Performance Metrics**: Success Rate (SR), SPL, Training Time  
+  - Gibson dataset (training and testing).
+  - MP3D and HM3D datasets (cross-domain testing).
+  - Categorized by difficulty: easy (1.5-3m), medium (3-5m), and hard (5-10m). 
+- **Performance Metrics**:
+  - Success Rate (SR)
+  - Success weighted by Path Length (SPL)
 - **Conclusions**:  
   - Self-supervised pre-training significantly reduced training time  
   - Proposed Transformer policy network excels in complex environments  
