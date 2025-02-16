@@ -15,7 +15,9 @@
 - **Challenges**: Complex state space and diverse targets  
 
 #### 🛰️ 1.2 Research Methods  
-
+- The framework incorporates Successor Features into the A3C architecture.（Derived from cognitive science principles, SF emulates neural mechanisms for constructing reusable predictive maps. This approach achieves reward-dynamics decomposition, facilitating rapid policy adaptation to reward modifications and enabling the acquisition of transferable environmental dynamics representations across task distributions.） 
+- Implementation of state-feature-based prediction mechanisms to establish parsimonious dynamics models in latent space for SF estimation.
+- Acquisition of compact rule sets within the latent state manifold to optimize successor feature prediction and extraction, enhancing the model's representational capacity.
 
 ![Example Image](Train/figs/SF.jpg)  
   
