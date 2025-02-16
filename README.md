@@ -36,7 +36,7 @@
 #### 🚀 2.1 Research Background 
 - **Problem Definition**: How to improve the cross-scene and cross-domain generalization ability in visual navigation, enabling agents to effectively navigate to target locations in new environments.  
 - **Research Significance**: Existing methods face challenges in handling long-term temporal information and cross-domain generalization. There is a need for more effective visual representation learning and temporal information processing methods.  
-- **Challenges**: Simultaneous processing of high-dimensional visual inputs and complex temporal dependencies; Challenges from dynamic camera parameter settings in real-world scenarios.
+- **Challenges**: Simultaneous processing of high-dimensional visual inputs and complex temporal dependencies. Challenges from dynamic camera parameter settings in real-world scenarios.
 
 #### 🛰️ 2.2 Research Methods  
 - Designed a Transformer-based dual attention mechanism framework
@@ -47,7 +47,10 @@
 ![Example Image](Train/figs/Masked.jpg)  
 
 #### 🏆 2.3 Experimental Results  
-- **Datasets**: Experiments conducted in Gibson and Matterport3D environments  
+- **Datasets**:
+- Gibson dataset (training and testing)
+- MP3D and HM3D datasets (cross-domain testing)
+- Categorized by difficulty: easy (1.5-3m), medium (3-5m), and hard (5-10m)  
 - **Performance Metrics**: Success Rate (SR), SPL, Training Time  
 - **Conclusions**:  
   - Self-supervised pre-training significantly reduced training time  
