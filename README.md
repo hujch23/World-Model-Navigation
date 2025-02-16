@@ -11,7 +11,7 @@
 
 ---  
 #### 🚀 1.1 Research Background 
-- **Problem Definition**: How to enhance agent generalization in target-driven visual navigation tasks?  
+- **Problem Definition**: How to improve the cross-scene and cross-domain generalization ability in visual navigation, enabling agents to effectively navigate to target locations in new environments.  
 - **Research Significance**: Traditional methods perform poorly in new targets or environments, lacking universality.  
 - **Challenges**: Complex state space and diverse targets  
 
@@ -34,8 +34,8 @@
 🙌 Official implementation of IROS 2025 under-review paper "Towards Efficient Image-Goal Navigation: A Self-Supervised Transformer-Based Reinforcement Learning Approach"
 
 #### 🚀 2.1 Research Background 
-- **Problem Definition**: How to improve efficiency and robustness in image-goal navigation tasks?  
-- **Research Significance**: Traditional methods rely on extensive labeled data, high training costs, limited generalization  
+- **Problem Definition**: How to improve the cross-scene and cross-domain generalization ability in visual navigation, enabling agents to effectively navigate to target locations in new environments.  
+- **Research Significance**: Existing methods face challenges in handling long-term temporal information and cross-domain generalization. There is a need for more effective visual representation learning and temporal information processing methods.  
 - **Challenges**:  
   - Efficient visual feature extraction needed for image-goal navigation  
   - Data scarcity limiting model performance  
