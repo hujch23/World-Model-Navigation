@@ -15,9 +15,11 @@
 - **Challenges**: Complex state space and diverse targets  
 
 #### 🛰️ 1.2 Research Methods  
-- The framework incorporates Successor Features into the A3C architecture.（Derived from cognitive science principles, SF emulates neural mechanisms for constructing reusable predictive maps. This approach achieves reward-dynamics decomposition, facilitating rapid policy adaptation to reward modifications and enabling the acquisition of transferable environmental dynamics representations across task distributions.）- <details> <summary>📝 中文翻译</summary>将SF与A3C算法结合。SF源自认知科学领域，模拟大脑如何创建可重用的预测地图。将奖励和环境动态解耦，使得策略可以快速适应奖励变化，能够学习多个任务之间可迁移的环境动态表征。</details>
+- The framework incorporates Successor Features into the A3C architecture.（Derived from cognitive science principles, SF emulates neural mechanisms for constructing reusable predictive maps. This approach achieves reward-dynamics decomposition, facilitating rapid policy adaptation to reward modifications and enabling the acquisition of transferable environmental dynamics representations across task distributions.）
+- <details> <summary>📝 中文翻译</summary>将SF与A3C算法结合。SF源自认知科学领域，模拟大脑如何创建可重用的预测地图。将奖励和环境动态解耦，使得策略可以快速适应奖励变化，能够学习多个任务之间可迁移的环境动态表征。</details>
 - Implementation of state-feature-based prediction mechanisms to establish parsimonious dynamics models in latent space for SF estimation.
-- Acquisition of compact rule sets within the latent state manifold to optimize successor feature prediction and extraction, enhancing the model's representational capacity.
+- <details> <summary>📝 中文翻译</summary>使用状态特征预测SF来创建潜在的简约动力学模型。</details>
+- Acquisition of compact rule sets within the latent state manifold to optimize successor feature prediction and extraction, enhancing the model's representational capacity.<details> <summary>📝 中文翻译</summary>在潜在状态中学习规则集，有助于预测和获取后继特征。</details>
 
 ![Example Image](Train/figs/SF.jpg)  
   
