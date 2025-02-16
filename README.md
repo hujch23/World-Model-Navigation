@@ -36,18 +36,11 @@
 #### 🚀 2.1 Research Background 
 - **Problem Definition**: How to improve the cross-scene and cross-domain generalization ability in visual navigation, enabling agents to effectively navigate to target locations in new environments.  
 - **Research Significance**: Existing methods face challenges in handling long-term temporal information and cross-domain generalization. There is a need for more effective visual representation learning and temporal information processing methods.  
-- **Challenges**:  
-  - Efficient visual feature extraction needed for image-goal navigation  
-  - Data scarcity limiting model performance  
+- **Challenges**: Simultaneous processing of high-dimensional visual inputs and complex temporal dependencies; Challenges from dynamic camera parameter settings in real-world scenarios.
 
 #### 🛰️ 2.2 Research Methods  
-- Proposed a self-supervised Transformer-based reinforcement learning framework  
-- **Core Innovations**:  
-  - Self-supervised learning for pre-training visual feature extraction module  
-  - Designed Transformer-based policy network enhancing long-sequence dependency modeling  
-- **Algorithm Flow**:  
-  1. Self-supervised Pre-training: Learning visual features through masked prediction tasks  
-  2. Reinforcement Learning: Optimizing policy using PPO algorithm based on pre-training  
+- Designed a Transformer-based dual attention mechanism framework:Bidirectional attention for masked prediction learning to enhance representation capability; Causal attention for generating belief states to guide policy decisions; Shared Transformer network to reduce parameter count.
+- 
 
 #### 🏆 2.3 Experimental Results  
 - **Datasets**: Experiments conducted in Gibson and Matterport3D environments  
