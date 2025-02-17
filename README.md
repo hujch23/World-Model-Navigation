@@ -76,7 +76,7 @@
   - Achieved state-of-the-art performance on Gibson dataset, demonstrating superior navigation capabilities (SR 91.7%, SPL 68.5%).
   - Exhibited robust cross-domain generalization, maintaining consistent performance across diverse environments (MP3D: SR 79.1%, SPL 52.8%; HM3D: SR 79.1%, SPL 46.6%).
   - Demonstrated remarkable resilience to dynamic camera parameters (height: 0.8m-1.5m, pitch: ±5°, FoV: 60°-120°) (Gibson SR 74.1%, SPL 48.9%).
-  - Demonstrated successful real-world deployment on a mobile robot equipped with NVIDIA Jetson Xavier NX, achieving reliable navigation performance in cluttered office environments.
+  - Demonstrated successful real-world deployment on a mobile robot equipped with NVIDIA Jetson Orin NX, achieving reliable navigation performance in cluttered office environments.
     
 
 ## 🎯 3. Model-based（World Model）
