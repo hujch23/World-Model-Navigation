@@ -102,7 +102,7 @@
 ![Example Image](Train/figs/Network.jpg) 
 
 #### 🏆 3.3 Experimental Results  
-![Example Image](Dream.gift) 
+![Example Image](Dream.gif) 
 
 
 🗂️ [Research in progress, results pending]
