@@ -82,23 +82,23 @@
 ## 🎯 3. Model-based（World Model）
 ---  
 
-🙌 Official implementation of CoRL 2025 under-preparation paper "Learning Stochastic World Models with VAE-Transformer for Visual Navigation (In Progress)"
+🙌 Official implementation of CoRL 2025 under-preparation paper "Learning Stochastic World Models with CVAE-Transformer for Visual Navigation (In Progress)"
 
 #### 🚀 3.1 Research Background  
-- **Problem Definition**: How to model environmental uncertainty in visual navigation?  
-- **Research Significance**: Current world models lack stochastic modeling capabilities  
+- **Problem Definition**: Model-based visual navigation methods face challenges in modeling environmental uncertainty and accumulating prediction errors during long-horizon planning. Current approaches using deterministic world models often fail to capture the stochastic nature of real-world environments
+- **Research Significance**:
+  - Sample Efficiency: Model-based methods enable self-supervised learning of environment dynamics, significantly improving sample efficiency compared to model-free approaches
+  - Uncertainty Modeling: Existing methods lack robust uncertainty quantification, leading to potential navigation failures
+  - Training Efficiency: Current world models require lengthy training periods with limited performance gains
 - **Challenges**:  
-  - Complex environmental dynamics  
-  - Uncertainty quantification in navigation  
+  - Prediction Error Accumulation：Auto-regressive "imagination" processes lead to compounding errors、Trajectory deviations cause agents to pursue virtual targets  
+  - Environmental Complexity：Dynamic and uncertain real-world environments、Complex state transitions and action effects
 
 #### 🛰️ 3.2 Research Methods   
-- Developing a VAE-Transformer hybrid architecture for world modeling  
-- **Core Components**:  
-  - VAE for stochastic state representation  
-  - Transformer for temporal dependency modeling  
-- **Key Features**:  
-  - Probabilistic state transitions  
-  - Uncertainty-aware planning  
+- We propose a stochastic Transformer-based world model that combines a Categorical VAE for robust state encoding with a GPT-style causal architecture for efficient sequence modeling
+- The CVAE encoder improves agent robustness and reduces cumulative errors in auto-regressive prediction by capturing environmental uncertainties in a structured latent space
+- The causal Transformer with identifiable factorization enhances both modeling quality and generation capabilities while accelerating the training process through efficient temporal dependency learning  
+
 
 #### 🏆 3.3 Experimental Results  
 - **Metrics**:  
