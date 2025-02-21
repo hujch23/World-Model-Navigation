@@ -99,14 +99,10 @@
 - The CVAE encoder improves agent robustness and reduces cumulative errors in auto-regressive prediction by capturing environmental uncertainties in a structured latent space
 - The causal Transformer with identifiable factorization enhances both modeling quality and generation capabilities while accelerating the training process through efficient temporal dependency learning  
 
+![Example Image](Train/figs/Network.jpg) 
 
 #### 🏆 3.3 Experimental Results  
-- **Metrics**:  
-  - Navigation success rate under uncertainty  
-  - Model prediction accuracy  
-- **Potential Impact**:  
-  - More robust navigation in uncertain environments  
-  - Better generalization to real-world scenarios
-![Example Image](Train/figs/Network.jpg)  
+
+
 
 🗂️ [Research in progress, results pending]
