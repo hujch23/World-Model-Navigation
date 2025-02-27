@@ -34,7 +34,7 @@
 - Implementation of state-feature-based prediction mechanisms to establish parsimonious dynamics models in latent space for SF estimation. 📝 中文翻译：使用状态特征预测SF来创建潜在的简约动力学模型。
 - Acquisition of compact rule sets within the latent state manifold to optimize successor feature prediction and extraction, enhancing the model's representational capacity.📝 中文翻译：在潜在状态中学习规则集，有助于预测和获取后继特征。
 
-![Example Image](Train/figs/SF.jpg)  
+![Example Image](figs/SF.jpg)  
   
 #### 🏆 1.3 Experimental Results  
 - **Datasets**: Tested in multiple simulation environments (e.g., AI2-THOR, Habitat). 
@@ -65,7 +65,7 @@
 -  Causal attention for generating belief states to guide policy decisions.
 -  Shared Transformer network to reduce parameter count.
 
-![Example Image](Train/figs/Masked.jpg)  
+![Example Image](figs/Masked.jpg)  
 
 #### 🏆 2.3 Experimental Results  
 - **Datasets**:
@@ -102,7 +102,7 @@
 - The CVAE encoder improves agent robustness and reduces cumulative errors in auto-regressive prediction by capturing environmental uncertainties in a structured latent space
 - The causal Transformer with identifiable factorization enhances both modeling quality and generation capabilities while accelerating the training process through efficient temporal dependency learning  
 
-![Example Image](Train/figs/Network.jpg) 
+![Example Image](figs/Network.jpg) 
 
 #### 🏆 3.3 Experimental Results  
 
