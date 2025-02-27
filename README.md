@@ -14,6 +14,8 @@
 
 "To address the challenges of **low learning efficiency and poor generalization** in reinforcement learning for visual navigation tasks, we focus on image-goal navigation in the Habitat simulator and explore a technical pathway from model-free to model-based reinforcement learning approaches. Compared with existing methods on the image-goal navigation benchmark, our approach demonstrates significant performance improvements across three standard benchmark datasets (Gibson, MP3D, and HM3D)."
 
+---  
+
 <div align="center">  
   <video width="640" height="360" controls>  
     <source src="episode=8-ckpt=2-distance_to_goal=0.07-success=1.00-spl=0.75-soft_spl=0.75-distance_to_view=0.16-view_match=0.00-view_angle=5.08-top_down_map.agent_angle=5.71-collisions.count=1.00.mp4" type="video/mp4">  
@@ -21,7 +23,7 @@
   </video>  
 </div>
 
----  
+
 
 ## 🔬 1. Model-free-I
 
