@@ -4,10 +4,10 @@
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/hujch23/World-Model-Navigation/issues)
 ## 📚 Content
 
-- [Overview](#Overview)
-- [Model-free-I](#Model-free-I)
-- [Model-free-II](#Model-free-II)
-- [Model-based](#Model-based)
+- [0. Overview](#1.Overview)
+- [1. Model-free-I](#2.Model-free-I)
+- [2. Model-free-II](#3.Model-free-II)
+- [3. Model-based](#4.Model-based)
 
 
 ## 🌟 0. Overview
