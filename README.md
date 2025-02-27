@@ -16,9 +16,7 @@
 
 ---  
 
-
-<video src="video.mp4" controls="controls" style="max-width: 730px;">  
-</video>
+![Example Image](video.mp4) 
 
 
 ## 🔬 1. Model-free-I
