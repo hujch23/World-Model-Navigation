@@ -140,3 +140,7 @@ pip install -r requirements.txt
 
 ### 1.2  Download Scene Datasets
 You can download the datasets from https://github.com/XinyuSun/FGPrompt. As mentioned in the repository, follow the official guidelines to download Gibson, HM3D, and MP3D scene datasets and place them in the data/scene_datasets directory.
+
+### 1.3  Prepare Train and Test episodes
+
+
