@@ -1,3 +1,0 @@
-habitat:
-  dataset:
-    data_path: data/datasets/imagenav/gibson/v1/{split}/{split}.json.gz
