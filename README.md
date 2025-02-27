@@ -1,7 +1,7 @@
 # 🤖 Intelligent Navigation RL Research  
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
-[![Habitat Lab](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://aihabitat.org/docs/habitat-lab/)
+[![Habitat Lab]()](https://aihabitat.org/docs/habitat-lab/)
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/hujch23/World-Model-Navigation/issues)
 ## 📚 Content
 
