@@ -109,3 +109,30 @@
 
 
 🗂️ [Research in progress, results pending]
+
+## 5. Install and Prepare dataset
+
+```bash
+# clone our repo
+git clone https://github.com/XinyuSun/FGPrompt.git
+cd FGPrompt
+
+# clone habitat-lab code
+git submodule init
+git submodule update
+
+# create conda env
+conda create -n fgprompt python=3.8
+
+# install habitat-sim
+conda install habitat-sim=0.2.2 withbullet headless -c conda-forge -c aihabitat
+
+# install pytorch1.11
+pip install torch==1.11.0+cu113 torchvision==0.12.0+cu113 -f https://download.pytorch.org/whl/torch_stable.html
+
+# install habitat-lab and habitat-baselines
+cd habitat-lab
+git checkout 1f7cfbdd3debc825f1f2fd4b9e1a8d6d4bc9bfc7
+pip install -e habitat-lab 
+pip install -e habitat-baselines
+```
