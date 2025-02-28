@@ -152,4 +152,4 @@ You can download the datasets from https://github.com/XinyuSun/FGPrompt. As ment
 We provide the script `datasets.py` to ensure the smooth loading of both curved and straight test episodes.
 
 
-## 🧭 Vision-Language Navigation Benchmark Based on Nvidia Isaac Lab
+## 🧭 6. Vision-Language Navigation Benchmark Based on Nvidia Isaac Lab
