@@ -1,4 +1,4 @@
-# 🤖 Intelligent Navigation RL Research  
+# 🤖 Research on RL for Robot Vision (Language) Navigation  
 ![Ubuntu](https://img.shields.io/badge/OS-Ubuntu%2020.04-orange)
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
