@@ -11,7 +11,7 @@
 - [2. Model-free-II-Visual Navigation](#2.Model-free-II)
 - [3. Model-based-I-Visual Navigation](#3.Model-based-IVisuaLanguagelNavigation)
 - [4. Model-based-II-Visual Language Navigation](#4.Mode-l-based-IIVisualLanguageNavigation)
-- [5. Install and Prepare Datasets](#5.InstallandPreparedataset)
+- [5. Install and Prepare Datasets for Image-goal Navigation](#5.InstallandPreparedataset)
 
 
 ## 🌟 0. Overview
@@ -114,7 +114,7 @@ To address the challenges of **low learning efficiency, poor generalization, and
 ## 🧸 4. Visual language navigation world model
 🗂️ [Research in progress, results pending]
 
-## 🏂 5. Install and Prepare dataset
+## 🏂 5. Install and Prepare Datasets for Image-goal Navigation
 
 ### 👒 5.1 Install habitat-lab 
 ```bash
