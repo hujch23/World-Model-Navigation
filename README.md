@@ -16,7 +16,7 @@
 
 
 ## 🌟 0. Overview
-To tackle the challenges of **low learning efficiency, poor generalization, and sim-to-real transfer**in reinforcement learning for visual navigation tasks, we focus on image-goal navigation and vision-language navigation within the Habitat simulator. Our work explores a technical progression from model-free to model-based reinforcement learning approaches. On the image-goal navigation benchmark, our method demonstrates significant performance improvements across three standard datasets: Gibson, MP3D, and HM3D. These results lay the foundation for further exploration of model-based methods, with the ultimate goal of building a world model for vision-language navigation.
+To tackle the challenges of **low learning efficiency, poor generalization, and sim-to-real transfer** in reinforcement learning for visual navigation tasks, we focus on image-goal navigation and vision-language navigation within the Habitat simulator. Our work explores a technical progression from model-free to model-based reinforcement learning approaches. On the image-goal navigation benchmark, our method demonstrates significant performance improvements across three standard datasets: Gibson, MP3D, and HM3D. These results lay the foundation for further exploration of model-based methods, with the ultimate goal of building a world model for vision-language navigation.
 
 ---  
 ![Example Image](video.gif) 
