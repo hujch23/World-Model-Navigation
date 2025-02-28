@@ -12,7 +12,6 @@
 - [3. Model-based-I-Image-goal Navigation](#3.Model-based-IVisuaLanguagelNavigation)
 - [4. Model-based-II-Visual Language Navigation](#4.Mode-l-based-IIVisualLanguageNavigation)
 - [5. Install and Prepare Datasets for Image-goal Navigation](#5.InstallandPreparedataset)
-- [6. Vision-Language Navigation Benchmark Based on Nvidia Isaac Lab](#6.NvidiaIsaacLab)
 
 
 ## 🌟 0. Overview
@@ -151,4 +150,3 @@ You can download the datasets from https://github.com/XinyuSun/FGPrompt. As ment
 We provide the script `datasets.py` to ensure the smooth loading of both curved and straight test episodes.
 
 
-## 🧭 6. Vision-Language Navigation Benchmark Based on Nvidia Isaac Lab
