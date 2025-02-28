@@ -11,7 +11,7 @@
 - [2. Model-free-II-Visual Navigation](#2.Model-free-II)
 - [3. Model-based-I-Visual Navigation](#3.Model-based-IVisuaLanguagelNavigation)
 - [4. Model-based-II-Visual Language Navigation](#4.Mode-l-based-IIVisualLanguageNavigation)
-- [5. Install and Prepare dataset](#5.InstallandPreparedataset)
+- [5. Install and Prepare Datasets](#5.InstallandPreparedataset)
 
 
 ## 🌟 0. Overview
