@@ -7,10 +7,10 @@
 ## 📚 Content
 
 - [0. Overview](#1.Overview)
-- [1. Model-free-I](#1.Model-free-I)
-- [2. Model-free-II](#2.Model-free-II)
-- [3. Model-based-I](#3.Model-based-IVisualNavigation)
-- [4. Model-based-II](#4.Model-based-IIVisualLanguageNavigation)
+- [1. Model-free-I-VisualNavigation-](#1.Model-free-I)
+- [2. Model-free-II-VisualNavigation](#2.Model-free-II)
+- [3. Model-based-I-VisualNavigation](#3.Model-based-IVisuaLanguagelNavigation)
+- [4. Model-based-II-VisualNavigation](#4.Mode-l-based-IIVisualLanguageNavigation)
 - [5. Install and Prepare dataset](#5.InstallandPreparedataset)
 
 
