@@ -51,7 +51,7 @@ To address the challenges of **low learning efficiency, poor generalization, and
 
 
 
-## 🔮 2. Model-free-II
+## 🔮 2. Model-free-II-Self-Supervised Transformer-Based Reinforcement Learning
 ---  
 🙌 Official implementation of IROS 2025 under-review paper "Towards Efficient Image-Goal Navigation: A Self-Supervised Transformer-Based Reinforcement Learning Approach".
 
@@ -85,7 +85,7 @@ To address the challenges of **low learning efficiency, poor generalization, and
   - Demonstrated successful real-world deployment on a mobile robot equipped with NVIDIA Jetson Orin NX, achieving reliable navigation performance in cluttered office environments.
     
 
-## 🎯 3. Model-based（World Model）
+## 🎯 3. Model-based-I-Visual Navigation World Model
 ---  
 
 🙌 Official implementation of CoRL 2025 under-preparation paper "Learning Stochastic World Models with CVAE-Transformer for Visual Navigation (In Progress)"
