@@ -111,7 +111,7 @@ To address the challenges of **low learning efficiency, poor generalization, and
 
 🗂️ [Research in progress, results pending]
 
-## 🧸 4. Visual language navigation world model
+## 🧸 4. Model-based-II-Visual Language Navigation World Model
 🗂️ [Research in progress, results pending]
 
 ## 🏂 5. Install and Prepare Datasets for Image-goal Navigation
