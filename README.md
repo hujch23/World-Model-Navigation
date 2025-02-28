@@ -12,6 +12,7 @@
 - [3. Model-based-I-Image-goal Navigation](#3.Model-based-IVisuaLanguagelNavigation)
 - [4. Model-based-II-Visual Language Navigation](#4.Mode-l-based-IIVisualLanguageNavigation)
 - [5. Install and Prepare Datasets for Image-goal Navigation](#5.InstallandPreparedataset)
+- [6. Vision-Language Navigation Benchmark Based on Nvidia Isaac Lab]
 
 
 ## 🌟 0. Overview
