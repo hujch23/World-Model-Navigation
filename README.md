@@ -7,9 +7,9 @@
 ## 📚 Content
 
 - [0. Overview](#🌟0.Overview)
-- [1. Model-free-I-Visual Navigation](#🔬1.Model-free-I)
-- [2. Model-free-II-Visual Navigation](#2.Model-free-II)
-- [3. Model-based-I-Visual Navigation](#3.Model-based-IVisuaLanguagelNavigation)
+- [1. Model-free-I-Image-goal Navigation](#🔬1.Model-free-I)
+- [2. Model-free-II-Image-goal Navigation](#2.Model-free-II)
+- [3. Model-based-I-Image-goal Navigation](#3.Model-based-IVisuaLanguagelNavigation)
 - [4. Model-based-II-Visual Language Navigation](#4.Mode-l-based-IIVisualLanguageNavigation)
 - [5. Install and Prepare Datasets for Image-goal Navigation](#5.InstallandPreparedataset)
 
