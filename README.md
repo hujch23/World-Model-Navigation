@@ -113,7 +113,7 @@ To address the challenges of **low learning efficiency, poor generalization, and
 🗂️ [Research in progress, results pending]
 
 ## 🧸 4. Model-based-II-Visual Language Navigation World Model
-🗂️ [Research in progress, results pending]
+🌌  [Research in progress, results pending]
 
 ## 🏂 5. Install and Prepare Datasets for Image-goal Navigation
 
@@ -152,4 +152,4 @@ You can download the datasets from https://github.com/XinyuSun/FGPrompt. As ment
 We provide the script `datasets.py` to ensure the smooth loading of both curved and straight test episodes.
 
 
-
+## 🧭 Vision-Language Navigation Benchmark Based on Nvidia Isaac Lab
