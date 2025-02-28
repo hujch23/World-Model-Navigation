@@ -111,6 +111,9 @@ To address the challenges of **low learning efficiency, poor generalization, and
 
 🗂️ [Research in progress, results pending]
 
+## 🏂 4. Visual language navigation world model
+
+
 ## 🏂 5. Install and Prepare dataset
 
 ### 👒 5.1 Install habitat-lab 
