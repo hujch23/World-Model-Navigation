@@ -6,11 +6,11 @@
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/hujch23/World-Model-Navigation/issues)
 ## 📚 Content
 
-- [0. Overview](#1.Overview)
-- [1. Model-free-I-VisualNavigation-](#1.Model-free-I)
-- [2. Model-free-II-VisualNavigation](#2.Model-free-II)
-- [3. Model-based-I-VisualNavigation](#3.Model-based-IVisuaLanguagelNavigation)
-- [4. Model-based-II-VisualNavigation](#4.Mode-l-based-IIVisualLanguageNavigation)
+- [0. Overview](#🌟0.Overview)
+- [1. Model-free-I-Visual Navigation-](#1.Model-free-I)
+- [2. Model-free-II-Visual Navigation](#2.Model-free-II)
+- [3. Model-based-I-Visual Navigation](#3.Model-based-IVisuaLanguagelNavigation)
+- [4. Model-based-II-Visual Language Navigation](#4.Mode-l-based-IIVisualLanguageNavigation)
 - [5. Install and Prepare dataset](#5.InstallandPreparedataset)
 
 
