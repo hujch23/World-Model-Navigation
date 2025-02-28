@@ -7,10 +7,11 @@
 ## 📚 Content
 
 - [0. Overview](#1.Overview)
-- [1. Model-free-I](#2.Model-free-I)
-- [2. Model-free-II](#3.Model-free-II)
-- [3. Model-based](#4.Model-based)
--  [5. Install and Prepare dataset](#5.InstallandPreparedataset)
+- [1. Model-free-I](#1.Model-free-I)
+- [2. Model-free-II](#2.Model-free-II)
+- [3. Model-based-I](#3.Model-based-IVisual Navigation)
+- [4. Model-based-II](#4.Model-based-IIVisualLanguageNavigation)
+- [5. Install and Prepare dataset](#5.InstallandPreparedataset)
 
 
 ## 🌟 0. Overview
