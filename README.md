@@ -22,7 +22,7 @@ To address the challenges of **low learning efficiency, poor generalization, and
 ![Example Image](video.gif) 
 
 
-## 🔬 1. Model-free-I
+## 🔬 1. Model-free-I-Transfer Reinforcement Learning
 
 🙌 Official implementation of IEEE Robotics and Automation Letters accepted paper ["A New Representation of Universal Successor Features for Enhancing the Generalization of Target-driven Visual Navigation"](https://ieeexplore.ieee.org/document/10623277)
 
