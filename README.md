@@ -9,7 +9,7 @@
 - [0. Overview](#1.Overview)
 - [1. Model-free-I](#1.Model-free-I)
 - [2. Model-free-II](#2.Model-free-II)
-- [3. Model-based-I](#3.Model-based-IVisual Navigation)
+- [3. Model-based-I](#3.Model-based-IVisualNavigation)
 - [4. Model-based-II](#4.Model-based-IIVisualLanguageNavigation)
 - [5. Install and Prepare dataset](#5.InstallandPreparedataset)
 
