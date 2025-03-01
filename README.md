@@ -116,7 +116,10 @@ To tackle the challenges of **low learning efficiency, poor generalization, and 
 
 We have successfully reproduced this project in the Isaac Lab. Moving forward, we plan to build upon this work to extend it into vision-language world model navigation:
 https://github.com/yang-zj1026/VLN-CE-Isaac
-
+<div align="center">  
+  <img src="h1_teaser.gif" alt="Example Image 1" width="400">  
+  <img src="go2_teaser.gif" alt="Example Image 2" width="400">  
+</div>
 🌌  [Research in progress, results pending]
 
 ## 🏂5. Install and Prepare Datasets for Image-goal Navigation
