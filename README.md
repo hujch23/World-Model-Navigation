@@ -50,7 +50,7 @@ To tackle the challenges of **low learning efficiency, poor generalization, and 
 
 
 
-## 🔮 2. Model-free-II-Self-Supervised Transformer-Based Reinforcement Learning
+## 🔮2. Model-free-II-Self-Supervised Transformer-Based Reinforcement Learning
 ---  
 🙌 Official implementation of IROS 2025 under-review paper "Towards Efficient Image-Goal Navigation: A Self-Supervised Transformer-Based Reinforcement Learning Approach".
 
@@ -84,7 +84,7 @@ To tackle the challenges of **low learning efficiency, poor generalization, and 
   - Demonstrated successful real-world deployment on a mobile robot equipped with NVIDIA Jetson Orin NX, achieving reliable navigation performance in cluttered office environments.
     
 
-## 🎯 3. Model-based-I-Visual Navigation World Model
+## 🎯3. Model-based-I-Visual Navigation World Model
 ---  
 
 🙌 Official implementation of CoRL 2025 under-preparation paper "Learning Stochastic World Models with CVAE-Transformer for Visual Navigation (In Progress)"
@@ -110,10 +110,10 @@ To tackle the challenges of **low learning efficiency, poor generalization, and 
 
 🗂️ [Research in progress, results pending]
 
-## 🧸 4. Model-based-II-Visual Language Navigation World Model
+## 🧸4. Model-based-II-Visual Language Navigation World Model
 🌌  [Research in progress, results pending]
 
-## 🏂 5. Install and Prepare Datasets for Image-goal Navigation
+## 🏂5. Install and Prepare Datasets for Image-goal Navigation
 
 ### 👒 5.1 Install habitat-lab 
 ```bash
