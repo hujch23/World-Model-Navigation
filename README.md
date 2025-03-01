@@ -8,10 +8,10 @@
 
 - [0. Overview](#0-overview)  
 - [1. Model-free-I-Image-goal Navigation](#1-Model-free-I-Transfer-Reinforcement-Learning)  
-- [2. Model-free-II-Image-goal Navigation](#2-model-free-ii-image-goal-navigation)  
-- [3. Model-based-I-Image-goal Navigation](#3-model-based-i-image-goal-navigation)  
-- [4. Model-based-II-Visual Language Navigation](#4-model-based-ii-visual-language-navigation)  
-- [5. Install and Prepare Datasets for Image-goal Navigation](#5-install-and-prepare-datasets-for-image-goal-navigation)  
+- [2. Model-free-II-Image-goal Navigation](#2-model-free-II-image-goal-navigation)  
+- [3. Model-based-I-Image-goal Navigation](#3-model-based-I-image-goal-navigation)  
+- [4. Model-based-II-Visual Language Navigation](#4-model-based-II-visual-language-navigation)  
+- [5. Install and Prepare Datasets for Image-goal Navigation](#5-Install-and-Prepare-Datasets-for-Image-goal-Navigation)  
 
 
 ## 🌟0. Overview 
