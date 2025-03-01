@@ -6,12 +6,12 @@
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/hujch23/World-Model-Navigation/issues)
 ## 📚 Content
 
-- [0. Overview](##🌟0.Overview)
-- [1. Model-free-I-Image-goal Navigation](#🔬1.Model-free-I)
-- [2. Model-free-II-Image-goal Navigation](#2.Model-free-II)
-- [3. Model-based-I-Image-goal Navigation](#3.Model-based-IVisuaLanguagelNavigation)
-- [4. Model-based-II-Visual Language Navigation](#4.Mode-l-based-IIVisualLanguageNavigation)
-- [5. Install and Prepare Datasets for Image-goal Navigation](#5.InstallandPreparedataset)
+- [0. Overview](#0-overview)  
+- [1. Model-free-I-Image-goal Navigation](#1-model-free-i-image-goal-navigation)  
+- [2. Model-free-II-Image-goal Navigation](#2-model-free-ii-image-goal-navigation)  
+- [3. Model-based-I-Image-goal Navigation](#3-model-based-i-image-goal-navigation)  
+- [4. Model-based-II-Visual Language Navigation](#4-model-based-ii-visual-language-navigation)  
+- [5. Install and Prepare Datasets for Image-goal Navigation](#5-install-and-prepare-datasets-for-image-goal-navigation)  
 
 
 ## 🌟 0. Overview
