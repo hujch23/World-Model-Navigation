@@ -6,7 +6,7 @@
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/hujch23/World-Model-Navigation/issues)
 ## 📚 Content
 
-- [0. Overview](#🌟0.Overview)
+- [0. Overview](##🌟0.Overview)
 - [1. Model-free-I-Image-goal Navigation](#🔬1.Model-free-I)
 - [2. Model-free-II-Image-goal Navigation](#2.Model-free-II)
 - [3. Model-based-I-Image-goal Navigation](#3.Model-based-IVisuaLanguagelNavigation)
