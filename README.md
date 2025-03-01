@@ -7,7 +7,7 @@
 ## 📚 Content
 
 - [0. Overview](#0-overview)  
-- [1. Model-free-I-Image-goal Navigation](#1.Model-free-I-TransferReinforcementLearning)  
+- [1. Model-free-I-Image-goal Navigation](#1-Model-free-I-Transfer-Reinforcement-Learning)  
 - [2. Model-free-II-Image-goal Navigation](#2-model-free-ii-image-goal-navigation)  
 - [3. Model-based-I-Image-goal Navigation](#3-model-based-i-image-goal-navigation)  
 - [4. Model-based-II-Visual Language Navigation](#4-model-based-ii-visual-language-navigation)  
