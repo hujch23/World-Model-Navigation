@@ -19,7 +19,7 @@ To tackle the challenges of **low learning efficiency, poor generalization, and 
 
 ---  
 ![Example Image](video.gif) 
-
+![Example Image](VLN_comparison.gif) 
 ## 🔬1. Model-free-I-Transfer Reinforcement Learning
 
 🙌 Official implementation of IEEE Robotics and Automation Letters accepted paper ["A New Representation of Universal Successor Features for Enhancing the Generalization of Target-driven Visual Navigation"](https://ieeexplore.ieee.org/document/10623277)
@@ -110,7 +110,7 @@ To tackle the challenges of **low learning efficiency, poor generalization, and 
 🗂️ [Research in progress, results pending]
 
 ## 🧸4. Model-based-II-Visual Language Navigation World Model
-![Example Image](VLN_comparison.gif) 
+
 🌌  [Research in progress, results pending]
 
 ## 🏂5. Install and Prepare Datasets for Image-goal Navigation
