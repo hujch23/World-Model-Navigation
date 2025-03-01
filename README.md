@@ -114,6 +114,9 @@ To tackle the challenges of **low learning efficiency, poor generalization, and 
 
 ## 🧸4. Model-based-II-Visual Language Navigation World Model
 
+We have successfully reproduced this project in the Isaac Lab. Moving forward, we plan to build upon this work to extend it into vision-language world model navigation:
+https://github.com/yang-zj1026/VLN-CE-Isaac
+
 🌌  [Research in progress, results pending]
 
 ## 🏂5. Install and Prepare Datasets for Image-goal Navigation
