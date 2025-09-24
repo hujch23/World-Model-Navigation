@@ -89,7 +89,7 @@ To tackle the challenges of **low learning efficiency, poor generalization, and 
 ## 🎯3. Model-based-I-Visual Navigation World Model
 ---  
 
-🙌 Official implementation of ICRA 2025 under-preparation paper "Learning Stochastic World Models with CVAE-Transformer for Visual Navigation (In Progress)"
+🙌 Official implementation of ICRA 2026 under-preparation paper "Self-Evolving Visual Navigation: Continual Policy Learning Based on World Models"
 
 #### 🚀 3.1 Research Background  
 - **Problem Definition**: Model-based visual navigation methods face challenges in modeling environmental uncertainty and accumulating prediction errors during long-horizon planning. Current approaches using deterministic world models often fail to capture the stochastic nature of real-world environments
@@ -157,6 +157,7 @@ You can download the datasets from https://github.com/XinyuSun/FGPrompt. As ment
 
 ### 📑 5.3  Prepare Train and Test episodes
 We provide the script `datasets.py` to ensure the smooth loading of both curved and straight test episodes.
+
 
 
 
